@@ -1,4 +1,4 @@
-# Number Detection
+# Color Detection
 
 1.  Install Python:
 
