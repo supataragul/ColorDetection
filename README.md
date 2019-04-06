@@ -17,3 +17,6 @@
             pip install numpy
 
             pip install opencv-python
+
+![Image description](https://github.com/supataragul/ColorDetection/blob/master/test.jpg)
+![Image description](https://github.com/supataragul/ColorDetection/blob/master/Out/Capture.JPG)
